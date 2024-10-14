@@ -37,6 +37,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silveralcid&show_icons=true&locale=en&layout=compact" alt="silveralcid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silveralcid&show_icons=true&locale=en" alt="silveralcid" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silveralcid&" alt="silveralcid" /></p>
