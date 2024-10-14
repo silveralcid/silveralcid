@@ -14,4 +14,4 @@
 
 - 📄 Learn more on [my website](https://silveralcid.com/)
 
-- ⚡ Fun fact **I brew my own kombucha and I'm striving to perfect my "kombucha matcha" recipe!**
+- ⚡ Fun fact **I brew my own kombucha** and I'm striving to perfect my **"kombucha matcha"** recipe!
