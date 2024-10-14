@@ -8,10 +8,10 @@
 
 - 🌱 I’m currently focusing on mastering **C#/.NET** and **React**
 
-- 👨‍💻 All of my projects here on [GitHub](https://github.com/silveralcid)
+- 👨‍💻 View all of my projects here on [GitHub](https://github.com/silveralcid?tab=repositories)
 
-- 📫 How to reach me **silveralcid@outlook.com**
+- 📫 Email me **silveralcid@outlook.com**
 
-- 📄 Learn more about me on [my website](https://silveralcid.com/)
+- 📄 Learn more on [my website](https://silveralcid.com/)
 
 - ⚡ Fun fact **I brew my own kombucha and I'm striving to perfect my "kombucha matcha" recipe!**
