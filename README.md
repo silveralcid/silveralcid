@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 I'm Silver!</h1>
-<h1 align="center"></h1>
 
 <h3 align="center">A passionate software engineer from North Carolina</h3>
 
