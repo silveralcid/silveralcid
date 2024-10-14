@@ -10,7 +10,7 @@
 
 - 👨‍💻 View all of my projects here on [GitHub](https://github.com/silveralcid?tab=repositories)
 
-- 📫 Email me **silveralcid@outlook.com**
+- 📫 Email me at **silveralcid@outlook.com**
 
 - 📄 Learn more on [my website](https://silveralcid.com/)
 
