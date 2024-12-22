@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **finishing my Bachelor's in Software Engineering** from Western Governer's University, expected **Spring 2025**
 
-- 🌱 I’m currently focusing on mastering **C#/.NET** and **React**
+- 🌱 I’m focusing on mastering full-stack development with **C#/.NET** and **React/TypeScript**
 
 - 👨‍💻 View all of my projects here on [GitHub](https://github.com/silveralcid?tab=repositories)
 
