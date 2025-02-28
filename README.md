@@ -3,15 +3,15 @@
 <h3 align="center">A passionate software engineer from North Carolina</h3>
 
 
-- 🔭 I’m currently working on **finishing my Bachelor's in Software Engineering** from Western Governer's University, expected **Spring 2025**
+- 🔭 I am a **new grad with a Bachelor's in Software Engineering** from Western Governer's University, graduated in **January 2025**
 
-- 🌱 I’m focusing on mastering full-stack development with **C#/.NET** and **React/TypeScript**
+- 🌱 I’m focusing on mastering **MERN full-stack development** 
 
-- 👨‍💻 View all of my projects here on [GitHub](https://github.com/silveralcid?tab=repositories)
+- 👨‍💻 View all of my tech projects here on [GitHub](https://github.com/silveralcid?tab=repositories)
 
-- 📫 Email me at **silveralcid@outlook.com**
+- 📫 Email me at **silveralcid@outlook.com** and connect with me on [Linkedin](https://www.linkedin.com/in/silveralcid/)
 
-- 📄 Learn more on [my website](https://silveralcid.com/)
+- 📄 Learn more about me on [my website](https://silveralcid.com/) and read about my journey on [Medium](https://medium.com/@silveralcid)
 
 - ⚡ Fun fact **I brew my own kombucha** and I'm striving to perfect my **"kombucha matcha"** recipe!
 
