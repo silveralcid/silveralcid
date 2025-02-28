@@ -7,7 +7,7 @@
 
 - 🌱 I’m focusing on mastering **MERN full-stack development** 
 
-- 👨‍💻 View all of my tech projects here on [GitHub](https://github.com/silveralcid?tab=repositories) or my other projects on [Bento](https://bento.me/silveralcid)
+- 👨‍💻 View all of my tech projects here on [GitHub](https://github.com/silveralcid?tab=repositories) and my other projects on [Bento](https://bento.me/silveralcid)
 
 - 📫 Email me at **silveralcid@outlook.com** and connect with me on [Linkedin](https://www.linkedin.com/in/silveralcid/)
 
