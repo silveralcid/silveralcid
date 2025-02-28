@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software engineer from North Carolina</h3>
 
 
-- 🔭 I am a **new grad with a Bachelor's in Software Engineering** from Western Governer's University, graduated in **January 2025**
+- 🔭 I am a **new grad with a Bachelor's in Software Engineering** from Western Governer's University
 
 - 🌱 I’m focusing on mastering **MERN full-stack development** 
 
