@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=silveralcid&theme=soft-green" alt="GitHub Streak"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=silveralcid&theme=soft-green&cache_bust=1" alt="GitHub Streak"/></a>
 </p>
 
 <!-- Tools section -->
