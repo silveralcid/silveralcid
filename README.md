@@ -1,5 +1,16 @@
 <p align="center">
-<a href="https://github.com/silveralcid"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=1F9F25&center=true&vCenter=true&random=true&width=440&height=45&lines=Silver+Alcid;Full+Stack+Engineer;MS+CS+New+Grad+2026;Always+learning+something+new;MMA+%26+chess+lover" alt="Typing SVG" /></a>
+<a href="https://github.com/silveralcid" target="_blank">
+  <img 
+    src="https://raw.githubusercontent.com/silveralcid/silveralcid/ba25ef023c2ca6e5ad52bc551432f19959ca7f92/silver-alcid-update.svg" 
+    alt="Silver Alcid"
+    width="350"
+  >
+</a>
+</p>
+
+
+<p align="center">
+<a href="https://github.com/silveralcid"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=1F9F25&center=true&vCenter=true&random=true&width=440&height=45&lines=Full+Stack+Engineer;MS+CS+New+Grad+2026;Always+learning+something+new;MMA+%26+Chess+lover" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
