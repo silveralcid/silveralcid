@@ -25,8 +25,9 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/silveralcid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+<!-- Streaks -->
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=silveralcid&theme=soft-green&exclude_days=Sun%2CSat" alt="GitHub Streak"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=silveralcid&theme=soft-green&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </p>
 
 <!-- Tools section -->
