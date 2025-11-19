@@ -27,7 +27,7 @@
 
 <!-- Streaks -->
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=silveralcid&theme=soft-green&exclude_days=Sun%2CSat&cachebust=10" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=silveralcid&theme=soft-green&exclude_days=Sun%2CSat&cachebust=1" alt="GitHub Streak" /></a>
 </p>
 
 <!-- Tools section -->
